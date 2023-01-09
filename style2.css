@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(241, 127, 146);
+}
+
+h2{
+    color: rgb(73, 70, 70);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;   
+}
+
+table{
+    width: 400 px;
+    border-spacing: 20px;
+}
+th{
+    text-align: left;
+}
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+caption{
+    color: rgb(73, 70, 70);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    text-align: center;   
+}
